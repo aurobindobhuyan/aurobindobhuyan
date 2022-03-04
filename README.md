@@ -1,4 +1,4 @@
-### -  Hi, 👋 I’m Aurobindo Bhuyan
+###   Hi, 👋 I’m Aurobindo Bhuyan
 
 ## enthusiastic Full Stack Developer 
 - 🌱 Trying to catch up with latest techs
