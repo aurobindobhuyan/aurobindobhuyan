@@ -9,7 +9,6 @@
 - 🌱i am creating reusable components and handle user authentication and authorisation
 <br/>
 
-
 ### Languages and Tools:
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -25,6 +24,18 @@
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 <br/>
 <br/>
+
+<h3>🛠 Tech Stack</h3>
+- 💻 &nbsp; JavaScript | ES6 | C++
+- 🌐 &nbsp; HTML | CSS | ReactJS | Next.JS | Node.js | Express.js | AWS
+- 🛢 &nbsp; MongoDB | PostgreSQL
+- 🔧 &nbsp; Git | Markdown
+<h3> 🤝🏻 Connect with Me </h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/MSanjaySharma/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-M%20Sanjay%20Sharma-blue?style=flat&logo=linkedin"></a>
+<a href="https://github.com/MSanjaySharma"><img alt="Github" src="https://img.shields.io/badge/GitHub-MSanjaySharma-blue?style=flat&logo=github"></a>
+<a href="mailto:sanjay98.sharma@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sanjay98.sharma%40gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
 
 <!---
 aurobindobhuyan/aurobindobhuyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
