@@ -32,9 +32,9 @@
 - 🔧 &nbsp; Git | Markdown
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/MSanjaySharma/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-M%20Sanjay%20Sharma-blue?style=flat&logo=linkedin"></a>
-<a href="https://github.com/MSanjaySharma"><img alt="Github" src="https://img.shields.io/badge/GitHub-MSanjaySharma-blue?style=flat&logo=github"></a>
-<a href="mailto:sanjay98.sharma@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sanjay98.sharma%40gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/aurobindo-bhuyan-4818a4207"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-M%20Sanjay%20Sharma-blue?style=flat&logo=linkedin"></a>
+<a href="https://github.com/aurobindobhuyan"><img alt="Github" src="https://img.shields.io/badge/GitHub-MSanjaySharma-blue?style=flat&logo=github"></a>
+<a href="mailto:aurobindobhuyan6@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sanjay98.sharma%40gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 <!---
