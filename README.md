@@ -26,9 +26,9 @@
 <br/>
 
 <h3>🛠 Tech Stack</h3>
-- 💻 &nbsp; JavaScript | ES6 | C++
-- 🌐 &nbsp; HTML | CSS | ReactJS | Next.JS | Node.js | Express.js | AWS
-- 🛢 &nbsp; MongoDB | PostgreSQL
+- 💻 &nbsp; JavaScript | ES5 | ES6
+- 🌐 &nbsp; HTML | CSS | ReactJS | Next.JS | Node.js | Express.js
+- 🛢 &nbsp; MongoDB
 - 🔧 &nbsp; Git | Markdown
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
