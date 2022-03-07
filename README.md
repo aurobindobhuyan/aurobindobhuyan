@@ -1,12 +1,20 @@
 ###   Hi, 👋 I’m Aurobindo Bhuyan
 
 ## enthusiastic Full Stack Developer 
-- 🌱 Trying to catch up with latest techs
-- 🔭 &nbsp; Currently working on  React, Redux, HTML5, CSS3, Javascript – ES5, ES6, Bootstrap
+- 🌱 &nbsp;  Passionate to work with latest techs.
+- 🔭 &nbsp; Currently working on React, Redux, HTML-5, CSS-3, Javascript – ES5, ES6, Bootstrap
 - 🌱 &nbsp; Learning more about technologies that go into building **Full Stack Applications**.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🌱 Hands-on experience in building web application and working with REST API’s and used redux for global statement management 
-- 🌱i am creating reusable components and handle user authentication and authorisation
+- 🌱 &nbsp; Hands-on experience in building web application and working with REST API’s and used redux for global statement management 
+- 🌱 &nbsp; i am creating reusable components and handle user authentication and authorisation
+<br/>
+
+<h3>🛠 Tech Stack</h3>
+- 💻 &nbsp; JavaScript | ES5 | ES6
+<br/>
+- 🌐 &nbsp; HTML | CSS | ReactJS
+<br/>
+- 🔧 &nbsp; Git 
 <br/>
 
 ### Languages and Tools:
@@ -25,12 +33,6 @@
 <br/>
 <br/>
 
-<h3>🛠 Tech Stack</h3>
-- 💻 &nbsp; JavaScript | ES5 | ES6
-- ssss
-- 🌐 &nbsp; HTML | CSS | ReactJS | Next.JS | Node.js | Express.js
-- 🛢 &nbsp; MongoDB
-- 🔧 &nbsp; Git | Markdown
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/aurobindo-bhuyan-4818a4207"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%20Aurobindo%20Bhuyan-blue?style=flat&logo=linkedin"></a>
