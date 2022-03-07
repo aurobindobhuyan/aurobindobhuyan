@@ -12,9 +12,9 @@
 <h3>🛠 Tech Stack</h3>
 - 💻 &nbsp; JavaScript | ES5 | ES6
 <br/>
-- 🌐 &nbsp; HTML | CSS | ReactJS
+- 🌐 &nbsp; HTML | CSS | ReactJS | Redux
 <br/>
-- 🔧 &nbsp; Git 
+- 🔧 &nbsp; Git | Github
 <br/>
 
 ### Languages and Tools:
