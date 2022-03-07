@@ -7,7 +7,6 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🌱 &nbsp; Hands-on experience in building web application and working with REST API’s and used redux for global statement management 
 - 🌱 &nbsp; i am creating reusable components and handle user authentication and authorisation
-<br/>
 
 <h3>🛠 Tech Stack</h3>
 - 💻 &nbsp; JavaScript | ES5 | ES6
