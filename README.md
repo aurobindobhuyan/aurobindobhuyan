@@ -1,6 +1,6 @@
 ###   Hi, 👋 I’m Aurobindo Bhuyan
 
-## enthusiastic Full Stack Developer 
+## Enthusiastic Full Stack Developer 
 - 🌱 &nbsp;  Passionate to work with latest techs.
 - 🔭 &nbsp; Currently working on React, Redux, HTML-5, CSS-3, Javascript – ES5, ES6, Bootstrap
 - 🌱 &nbsp; Learning more about technologies that go into building **Full Stack Applications**.
