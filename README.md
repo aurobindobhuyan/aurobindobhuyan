@@ -27,6 +27,7 @@
 
 <h3>🛠 Tech Stack</h3>
 - 💻 &nbsp; JavaScript | ES5 | ES6
+- ssss
 - 🌐 &nbsp; HTML | CSS | ReactJS | Next.JS | Node.js | Express.js
 - 🛢 &nbsp; MongoDB
 - 🔧 &nbsp; Git | Markdown
