@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aurobindo Bhuyan</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aurobindobhuyan&label=Profile%20views&color=0e75b6&style=flat" alt="aurobindobhuyan" /> </p>
+
 ### A Passionate Full Stack Developer 
 - 🌱 &nbsp;  Passionate to work with latest techs.
 - 🔭 &nbsp; Currently working on React, Redux, HTML-5, CSS-3, Javascript – ES5, ES6, Bootstrap
