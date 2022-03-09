@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aurobindobhuyan&label=Profile%20views&color=0e75b6&style=flat" alt="aurobindobhuyan" /> </p>
 
-### A Passionate Full Stack Developer 
+### 👨🏻‍💻 About Me
 - 🌱 &nbsp;  Passionate to work with latest techs.
 - 🔭 &nbsp; Currently working on React, Redux, HTML-5, CSS-3, Javascript – ES5, ES6, Bootstrap
 - 🌱 &nbsp; Learning more about technologies that go into building **Full Stack Applications**.
