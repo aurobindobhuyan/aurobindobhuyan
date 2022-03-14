@@ -13,6 +13,8 @@
 <br/>
 - 🌐 &nbsp; HTML | CSS | ReactJS | Redux
 <br/>
+- 🔭 &nbsp; Leaning NodeJS | ExpressJS | MongoDB
+<br />
 - 🔧 &nbsp; Git | Github
 <br/>
 
