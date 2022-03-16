@@ -8,15 +8,14 @@
 - 🌱 &nbsp; Hands-on experience in building web application and working with REST API’s and used redux for global statement management 
 - 🌱 &nbsp; i am creating reusable components and handle user authentication and authorisation
 
-### <h3>🛠 Tech Stack</h3>
+## <h3>🛠 Tech Stack</h3>
 - 💻 &nbsp; JavaScript | ES5 | ES6
 - 🌐 &nbsp; HTML | CSS | ReactJS | Redux | Bootstrap | Material-ui 
 - 🔭 &nbsp; Leaning NodeJS | ExpressJS | MongoDB
 - 🔧 &nbsp; Git | Github | VS Code | Postman
-<br/>
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+## <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/aurobindo-bhuyan-4818a4207"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%20Aurobindo%20Bhuyan-blue?style=flat&logo=linkedin"></a>
 <a href="https://github.com/aurobindobhuyan"><img alt="Github" src="https://img.shields.io/badge/GitHub-AurobindoBhuyan-blue?style=flat&logo=github"></a>
