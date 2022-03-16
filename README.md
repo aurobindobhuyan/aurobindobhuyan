@@ -2,8 +2,8 @@
 
 ### 👨🏻‍💻 About Me
 - 🌱 &nbsp; Hands on experience on building web applications. 
-- 🔭 &nbsp; Currently working on React, Redux, HTML-5, CSS-3, Javascript – ES5, ES6, Bootstrap
-- 🌱 &nbsp; Learning more about technologies like ( ExpressJS, MongoDB ) that will help me to building **Full Stack Applications**.
+- 🔭 &nbsp; Currently working on **React, Redux, HTML-5, CSS-3, Javascript – ES5, ES6, Material-UI, Bootstrap**.
+- 🌱 &nbsp; Learning more about technologies like **( ExpressJS & MongoDB )** that will help me to building **Full Stack Applications**.
 - 🤔 &nbsp; Handling user Authentication  & Authorization. 
 - 🌱 &nbsp; Working with REST API’s and used redux for global statement management 
 
