@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aurobindo Bhuyan</h1>
 
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Nice+To+Meet+You+...&center=true"></a>
+
+</p>
+
 ### 👨🏻‍💻 About Me
 - 🌱 &nbsp; Hands on experience on building web applications. 
 - 🔭 &nbsp; Currently working on **React, Redux, HTML-5, CSS-3, Javascript – ES5, ES6, Material-UI, Bootstrap**.
