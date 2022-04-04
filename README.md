@@ -11,7 +11,7 @@
 - 🤔 &nbsp; Handling user Authentication  & Authorization. 
 - 🌱 &nbsp; Working with REST API’s and used redux for global statement management 
 
-### <h3>🛠 Tech Stack</h3>
+## <h3>🛠 Tech Stack</h3>
 - 💻 &nbsp; **JavaScript | ES5 | ES6**
 - 🌐 &nbsp; **HTML | CSS | ReactJS | Redux | Bootstrap | Material-ui** 
 - 🔭 &nbsp; **Leaning NodeJS | ExpressJS | MongoDB**
