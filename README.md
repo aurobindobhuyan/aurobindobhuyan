@@ -15,7 +15,7 @@
 - 💻 &nbsp; **JavaScript | ES5 | ES6**
 - 🌐 &nbsp; **HTML | CSS | ReactJS | Redux | Bootstrap | Material-ui** 
 - 🔭 &nbsp; **Leaning NodeJS | ExpressJS | MongoDB**
-- 🔧 &nbsp; **Git | Github | VS Code | Postman**
+- 🔧 &nbsp; **Git | Github | VS Code | Postman | Markdown**
 
 
 ## <h3> 🤝🏻 Connect with Me </h3>
