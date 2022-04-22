@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=5a0fe1&width=380&height=45&lines=Nice+To+Meet+You+...&center=true">
 </p>
 
-### 👨🏻‍💻 About Me
+# 👨🏻‍💻 About Me
 - 🌱 &nbsp; Hands on experience on building web applications. 
 - 🔭 &nbsp; Currently working on **React, Redux, HTML-5, CSS-3, Javascript – ES5, ES6, Material-UI, Bootstrap**.
 - 🌱 &nbsp; Learning more about technologies like **( ExpressJS & MongoDB )** that will help me to building **Full Stack Applications**.
