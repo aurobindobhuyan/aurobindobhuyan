@@ -18,7 +18,7 @@
 - 🔧 &nbsp; **Git | Github | VS Code | Postman | Markdown**
 
 
-## <h3> 🤝🏻 Connect with Me </h3>
+### <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/aurobindo-bhuyan-4818a4207"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%20Aurobindo%20Bhuyan-blue?style=flat&logo=linkedin"></a>
 <a href="https://github.com/aurobindobhuyan"><img alt="Github" src="https://img.shields.io/badge/GitHub-AurobindoBhuyan-blue?style=flat&logo=github"></a>
