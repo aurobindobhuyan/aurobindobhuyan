@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aurobindo Bhuyan</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=5a0fe1&width=380&height=45&lines=Nice+To+Meet+You+...&center=true">
+    <img src="https://readme-typing-svg.herokuapp.com?color=5a0fe1&width=380&height=45&lines=Hello+There+...+👋;Nice+To+Meet+You+...&center=true">
 </p>
 
 ### 👨🏻‍💻 About Me
