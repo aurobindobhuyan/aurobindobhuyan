@@ -12,7 +12,8 @@
 - 🌱 &nbsp; Working with REST API’s and used redux for global statement management 
 
 ### <h3>🛠 Tech Stack</h3>
-- 💻 &nbsp; **JavaScript | ES5 | ES6 | Servicenow**
+- 💻 &nbsp; **JavaScript | ES5 | ES6**
+- 💻 &nbsp; **Servicenow Basics**
 - 🌐 &nbsp; **HTML | CSS | ReactJS | Redux Toolkit | Bootstrap | Material-ui** 
 - 🔭 &nbsp; **Leaning NodeJS | ExpressJS | MongoDB**
 - 🔧 &nbsp; **Git | Github | VS Code | Postman | Markdown**
