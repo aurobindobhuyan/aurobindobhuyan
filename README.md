@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aurobindo Bhuyan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/faizahmedfarooqui/faizahmedfarooqui/master/wave.gif" width="30px">, I'm Aurobindo Bhuyan</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=5a0fe1&width=380&height=45&lines=Hello+There+...+👋;Nice+To+Meet+You+...&center=true">
+    <img src="https://readme-typing-svg.herokuapp.com?color=5a0fe1&width=380&height=45&lines=Hello+There+...;Nice+To+Meet+You+...&center=true">
 </p>
 
 ### 👨🏻‍💻 About Me
@@ -20,13 +20,21 @@
 
 
 ### <h3> 🤝🏻 Connect with Me </h3>
+
+
+[![WhatsApp](https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](http://Wa.me/9668255235)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aurobindobhuyan6@gmail.com)
+[![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aurobindo-bhuyan-4818a4207)
+[![Git Hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aurobindobhuyan)
+
+
+<!---
 <p align="center">
 <a href="https://www.linkedin.com/in/aurobindo-bhuyan-4818a4207"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%20Aurobindo%20Bhuyan-blue?style=flat&logo=linkedin"></a>
 <a href="https://github.com/aurobindobhuyan"><img alt="Github" src="https://img.shields.io/badge/GitHub-AurobindoBhuyan-blue?style=flat&logo=github"></a>
 <a href="mailto:aurobindobhuyan6@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aurobindobhuyan6%40gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
-<!---
 aurobindobhuyan/aurobindobhuyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
