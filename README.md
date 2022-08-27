@@ -18,23 +18,24 @@
 - 🔭 &nbsp; **Leaning NodeJS | ExpressJS | MongoDB**
 - 🔧 &nbsp; **Git | Github | VS Code | Postman | Markdown**
 
+![Git Hub Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurobindobhuyan&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aurobindobhuyan&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aurobindobhuyan&theme=github)
 
 ### <h3> 🤝🏻 Connect with Me </h3>
-
 
 [![WhatsApp](https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](http://Wa.me/9668255235)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aurobindobhuyan6@gmail.com)
 [![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aurobindo-bhuyan-4818a4207)
 [![Git Hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aurobindobhuyan)
 
+<!---
+
+[![Github Graph](https://activity-graph.herokuapp.com/graph?username=aurobindobhuyan&bg_color=331e2a&color=f2f1ee&line=10bde0&point=fcf8f8&area=true&hide_border=true)](https://github.com/aurobindobhuyan/github-readme-activity-graph)
+
+--->
 
 <!---
-<p align="center">
-<a href="https://www.linkedin.com/in/aurobindo-bhuyan-4818a4207"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%20Aurobindo%20Bhuyan-blue?style=flat&logo=linkedin"></a>
-<a href="https://github.com/aurobindobhuyan"><img alt="Github" src="https://img.shields.io/badge/GitHub-AurobindoBhuyan-blue?style=flat&logo=github"></a>
-<a href="mailto:aurobindobhuyan6@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aurobindobhuyan6%40gmail.com-blue?style=flat&logo=gmail"></a>
-</p>
-
 aurobindobhuyan/aurobindobhuyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
