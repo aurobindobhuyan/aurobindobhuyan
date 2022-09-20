@@ -14,8 +14,8 @@
 ### <h3>🛠 Tech Stack</h3>
 - 💻 &nbsp; **JavaScript | ES5 | ES6**
 - 💻 &nbsp; **Servicenow Basics**
-- 🌐 &nbsp; **HTML | CSS | ReactJS | Redux Toolkit | Bootstrap | Material-ui** 
-- 🔭 &nbsp; **Leaning NodeJS | ExpressJS | MongoDB | NextJS**
+- 🌐 &nbsp; **HTML | CSS | ReactJS | NEXT.JS | Redux Toolkit | Bootstrap | Material-ui** 
+- 🔭 &nbsp; **Leaning NodeJS | ExpressJS | MongoDB**
 - 🔧 &nbsp; **Git | Github | VS Code | Postman | Markdown**
 
 ![Git Hub Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurobindobhuyan&theme=nord_dark)
