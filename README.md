@@ -18,7 +18,6 @@
 - 🔭 &nbsp; **Leaning NodeJS | ExpressJS | MongoDB**
 - 🔧 &nbsp; **Git | Github | VS Code | Postman | Markdown**
 
-![Git Hub Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurobindobhuyan&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aurobindobhuyan&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aurobindobhuyan&theme=nord_dark)
 
