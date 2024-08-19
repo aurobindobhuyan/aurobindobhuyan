@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 About Me
 - 🌱 &nbsp; Hands on experience on building web applications. 
-- 🔭 &nbsp; Currently working on **React, Next, Redux, Typescript, Javascript – ES5 & ES6, HTML-5, CSS-3, Material-UI, Bootstrap**.
+- 🔭 &nbsp; Currently working on **React, Next.js 14, Redux Toolkit, Typescript, Javascript – ES5 & ES6, Tailwind**.
 - 🌱 &nbsp; Learning more about technologies like **( ExpressJS & MongoDB )** that will help me to building **Full Stack Applications**.
 - 🤔 &nbsp; Handling user Authentication  & Authorization. 
 - 🌱 &nbsp; Working with REST API’s and used redux for global statement management 
@@ -14,7 +14,7 @@
 ### <h3>🛠 Tech Stack</h3>
 - 💻 &nbsp; **JavaScript | ES5 | ES6**
 - 💻 &nbsp; **Servicenow Basics**
-- 🌐 &nbsp; **ReactJS | NEXT.JS | Redux Toolkit | Typescript | HTML | CSS | Bootstrap | Material-ui** 
+- 🌐 &nbsp; **ReactJS | NEXT.JS 14 | Redux Toolkit | Typescript | Tailwind** 
 - 🔭 &nbsp; **Leaning NodeJS | ExpressJS | MongoDB**
 - 🔧 &nbsp; **Git | Github | VS Code | Postman | Markdown**
 
