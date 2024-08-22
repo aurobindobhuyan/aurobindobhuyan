@@ -14,8 +14,8 @@
 ### <h3>🛠 Tech Stack</h3>
 - 💻 &nbsp; **JavaScript | ES5 | ES6**
 - 💻 &nbsp; **Servicenow Basics**
-- 🌐 &nbsp; **ReactJS | NEXT.JS 14 | Redux Toolkit | Typescript | Tailwind** 
-- 🔭 &nbsp; **Leaning NodeJS | ExpressJS | MongoDB**
+- 🌐 &nbsp; **ReactJS | Next.js 14 | Redux Toolkit | Typescript | Tailwind** 
+- 🔭 &nbsp; **Leaning NodeJS | ExpressJS | MongoDB | AWS (EC2, LightSail)**
 - 🔧 &nbsp; **Git | Github | VS Code | Postman | Markdown**
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aurobindobhuyan&theme=nord_dark)
