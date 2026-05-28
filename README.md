@@ -13,8 +13,7 @@
 
 ### <h3>🛠 Tech Stack</h3>
 - 💻 &nbsp; **JavaScript | ES5 | ES6**
-- 💻 &nbsp; **Servicenow Basics**
-- 🌐 &nbsp; **ReactJS | Next.js 14 | Redux Toolkit | Typescript | Tailwind** 
+- 🌐 &nbsp; **ReactJS | Next.js 15 | Redux Toolkit | Typescript | Tailwind** 
 - 🔭 &nbsp; **Leaning NodeJS | ExpressJS | MongoDB | AWS (EC2, LightSail)**
 - 🔧 &nbsp; **Git | Github | VS Code | Postman | Markdown**
 
