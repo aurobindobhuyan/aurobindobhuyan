@@ -20,6 +20,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aurobindobhuyan&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aurobindobhuyan&theme=nord_dark)
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aurobindobhuyan&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=aurobindobhuyan&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aurobindobhuyan&theme=onedark&hide_border=false)<br/>
+
 ### <h3> 🤝🏻 Connect with Me </h3>
 
 [![WhatsApp](https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](http://Wa.me/9668255235)
